@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Reidhanei</h1>
+<h1 align="center">I'm REIDHANEI PM </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Java+%7C+DSA+%7C+Web+Development;IT+Student;Building+Projects+Every+Day" />
