@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi 👋 I'm Reidhanei
 
-<!--
-**reidhanei06/reidhanei06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Information Technology Student
 
-Here are some ideas to get you started:
+🌱 Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- DSA
+- Web Development
+
+## 🐍 Contribution Snake
+
+![Snake](https://raw.githubusercontent.com/reidhanei06/reidhanei06/output/github-contribution-grid-snake.svg)
